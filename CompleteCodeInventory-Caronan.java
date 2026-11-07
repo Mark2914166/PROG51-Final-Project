@@ -1,7 +1,6 @@
 
 #include <iostream>
 using namespace std;
-
 int main() {
     string item[100];
     int quantity[100], choice;
